@@ -1,0 +1,2 @@
+- membuat akun github (09/09/2022)
+- menginstall aplikasi android studio (12/09/2022)
